@@ -1,2 +1,2 @@
-# Scripts
-Personnel Scriprts 
+# scripts
+Personal scripts 
